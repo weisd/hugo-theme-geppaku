@@ -81,7 +81,7 @@ a:hover {
  * articles
  */
 .article {
-  width: 590px;
+  width: 690px;
   padding: 0px 20px 20px 20px;
   clear: left;
   overflow: hidden;
@@ -131,7 +131,7 @@ a:hover {
  * sidebar
  */
 .sidebar {
-  width: 310px;
+  width: 210px;
   float: right;
   min-height:200px; 
   height: 200px;
@@ -393,7 +393,7 @@ h4:before {
 
   background: #F6F7F8;
   padding: 20px 25px 10px 45px;
-  margin: 5px 17px 20px 0px;
+  margin: 5px 0px 20px 0px;
 
   font-size: 13px;
   font-style: italic;
